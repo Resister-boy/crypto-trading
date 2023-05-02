@@ -7,3 +7,4 @@
 3. 거래 알고리즘? -> 아직 학습 필요
 4. 데이터 Dune-> Maybe enough? Anything else?
 5. GPT? Fine-Tuning?
+6. 가능하면 애플리케이션 형태로?
